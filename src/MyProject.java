@@ -3,6 +3,7 @@
  */
 public class MyProject {
     public void index(){
+
         System.out.println("myProject");
     }
 }
